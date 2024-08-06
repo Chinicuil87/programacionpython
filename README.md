@@ -1,22 +1,91 @@
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 20%;"
-    src="imagenes/piton.png" 
-    alt="Our logo">
-</img>
+<p align="center">
+<img src="./img/python.png"
+ width="300">
+</p>
 
-# Programacion en Python
+<h1 align="center" id="python">Programación Python</h1>
 
-## Programas en python.
+## Insignias
 
-1. [ Hola mundo.](holaMundo)   
-|PYTHON|
-    
-> Pantalla que muestra mensaje en pantalla de Hola mundo!
+![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
+![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
+![Static Badge](https://img.shields.io/badge/CERTIFICADO-Udemy-purple)
+![Static Badge](https://img.shields.io/badge/CERTIFICADO-CodigoFacilito-green)
+![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
 
-2. [Saludo Usuario.](saludoUsuario)  
-|PYTHON|
+## Índice
 
-> Solicta al usuario. su nombre y muentra un saludo personalizado.
+1. [PYTHON](#python)
+
+2. [Insignias](#insignias)
+
+3. [Índice](#índice)
+
+4. [Proyectos y Ejercicios](#descripción-del-proyecto)
+
+   4.1 [Hola Mundo](holaMundo)  
+   4.2 [Saludo Usuario](saludoUsuario)
+
+5. [Acceso al proyecto](#acceso-proyecto)
+
+6. [Tecnologías utilizadas](#tecnologías-utilizadas)
+
+7. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+8. [Certificados.](#certificado)
+
+9. [Conclusión](#conclusión)
+
+## Descripción del proyecto
+
+Repositorio que contiene todos los proyectos y ejercicios hechos en Python. Con la finalidad de brindar información de mis avances y mis habilidades adquiridas durante mis certificaciones.
+
+## Estado del proyecto
+
+<h4 align="center">
+FINALIZADO
+</h4>
+
+## Características de la aplicación y demostración.
+
+> Uso.
+
+    - Variables
+    - Operadores
+    - Desiciones
+    - Ciclos
+    - Funciones
+
+> Menu de opciones.
+
+    - Suma
+    - Resta
+    - Multiplicacion
+    - Division-
+    - Salir
+
+> Aplicacion menu
+
+![Menu calculadora](./img/appcalculadora.png)
+
+> Ejecucion de seleecion
+
+![Ejecucion eleccion](./img/ejecucion.png)
+
+## Acceso al proyecto
+
+[Descarga los archivos desde Github]()
+
+## Tecnologías utilizadas
+
+![Static Badge](https://img.shields.io/badge/IDE-IntelliJ-purple)
+
+![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
+
+![Static Badge](https://img.shields.io/badge/JDK-21-red)
+
+## Certificados
+
+## Personas-Desarrolladores del Proyecto
+
+| [<img src="./img/Imagen de WhatsApp 2024-04-03 a las 11.56.47_1cd72efb.jpg" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)

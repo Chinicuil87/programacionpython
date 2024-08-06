@@ -15,4 +15,4 @@ continuar = True
 while continuar:
     if not resultado:
         resultado = input("Ingrese numero: ")
-        if resultado == 5
+        if resultado == 5:
