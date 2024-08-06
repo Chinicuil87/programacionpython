@@ -54,14 +54,17 @@ PROCESO
 
 ## Tecnologías utilizadas
 
-![Static Badge](https://img.shields.io/badge/IDE-IntelliJ-purple)
+![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
 
-![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
+![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
 
-![Static Badge](https://img.shields.io/badge/JDK-21-red)
+![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
 
 ## Certificados
 
+[<img src="./img/Curso profesional de Python.png" width=230><br><sub>Curso profesional de
+Python</sub>](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-5723b8c4022b)
+
 ## Personas-Desarrolladores del Proyecto
 
-| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
+[<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
