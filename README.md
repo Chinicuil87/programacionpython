@@ -15,13 +15,13 @@
 
 ## Índice
 
-1. [PYTHON](#python)
+1. [Programación Python](#python)
 
 2. [Insignias](#insignias)
 
 3. [Índice](#índice)
 
-4. [Proyectos y Ejercicios](#descripción-del-proyecto)
+4. [Proyectos y Ejercicios](#Proyectos)
 
    4.1 [Hola Mundo](holaMundo)  
    4.2 [Saludo Usuario](saludoUsuario)
@@ -36,45 +36,21 @@
 
 9. [Conclusión](#conclusión)
 
-## Descripción del proyecto
+## Proyectos y Ejercicios
 
-Repositorio que contiene todos los proyectos y ejercicios hechos en Python. Con la finalidad de brindar información de mis avances y mis habilidades adquiridas durante mis certificaciones.
+Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con la finalidad de brindar información de mis avances y habilidades adquiridas durante las certificaciones.
+
+1.  [Hula Mundo](holaMundo)
 
 ## Estado del proyecto
 
 <h4 align="center">
-FINALIZADO
+PROCESO
 </h4>
-
-## Características de la aplicación y demostración.
-
-> Uso.
-
-    - Variables
-    - Operadores
-    - Desiciones
-    - Ciclos
-    - Funciones
-
-> Menu de opciones.
-
-    - Suma
-    - Resta
-    - Multiplicacion
-    - Division-
-    - Salir
-
-> Aplicacion menu
-
-![Menu calculadora](./img/appcalculadora.png)
-
-> Ejecucion de seleecion
-
-![Ejecucion eleccion](./img/ejecucion.png)
 
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github]()
+[Repositorio Github](https://github.com/Chinicuil87/programacionpython)
 
 ## Tecnologías utilizadas
 
