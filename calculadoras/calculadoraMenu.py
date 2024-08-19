@@ -3,16 +3,32 @@ print(" "*19 + "CALCULADORA")
 print("*"*50)
 
 menu = """
+        Menu
+        
     1. Suma
     2. Resta
     3. Multiplicacion
     4. Division
     5. Salir
+    
 """
-resultado = ""
+resultado = " "
 continuar = True
 
 while continuar:
-    if not resultado:
-        resultado = input("Ingrese numero: ")
-        if resultado == 5:
+    print(menu)
+    opcion = int(input("Selecciona una opcion:  "))
+    if opcion == 1:
+        print("Suma")
+    elif opcion == 2:
+        print("Resta")
+    elif opcion == 3:
+        print("Multiplicacion")
+    elif opcion == 4:
+        print("Division")
+    elif opcion == 5:
+        print("Saliendo del programa")
+        continuar = False
+        break
+    else:
+        print("opcion no valida")

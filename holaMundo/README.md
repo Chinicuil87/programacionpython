@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/python.png"
+<img src="./img/hola-mundo.png"
  width="300">
 </p>
 
@@ -41,13 +41,11 @@ FINALIZADO
 
 ## Características de la aplicación y demostración.
 
-> Uso.
-
-    print
+> Uso de la funcion de print.
 
 ## Acceso al proyecto
 
-[Descarga los archivos desde Github]()
+[Github]()
 
 ## Tecnologías utilizadas
 
@@ -59,4 +57,4 @@ FINALIZADO
 
 ## Personas-Desarrolladores del Proyecto
 
-| [<img src="./img/Imagen de WhatsApp 2024-04-03 a las 11.56.47_1cd72efb.jpg" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
+| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
