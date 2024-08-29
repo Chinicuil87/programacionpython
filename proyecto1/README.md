@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./img/LOGO.png"
+<img src="./img/logo.png"
  width="300">
 </p>
 
@@ -78,7 +78,7 @@ Resultado.
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionJava/tree/main/HolaMundo)
+[Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto1)
 
 ## Tecnologías utilizadas
 
