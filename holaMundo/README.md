@@ -7,9 +7,13 @@
 
 ## Insignias
 
+<section align="center">
+
 ![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
 ![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
+
+</section>
 
 ## Índice
 
@@ -42,6 +46,9 @@ FINALIZADO
 ## Características de la aplicación y demostración.
 
 > Uso de la funcion de print.
+
+> Vista del programa en consola
+> ![alt text](img/image.png)
 
 ## Acceso al proyecto
 

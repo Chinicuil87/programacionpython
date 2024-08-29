@@ -7,12 +7,16 @@
 
 ## Insignias
 
+<section align="center">
+
 ![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
 ![Static Badge](https://img.shields.io/badge/CERTIFICADO-Udemy-purple)
 ![Static Badge](https://img.shields.io/badge/CERTIFICADO-CodigoFacilito-green)
 ![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
 ![Static Badge](https://img.shields.io/badge/Curso-YouTube-red)
+
+</section>
 
 ## Índice
 
@@ -61,11 +65,15 @@ PROCESO
 
 ## Certificados
 
-[<img src="./img/Curso profesional de Python.png" width=230><br><sub>Curso profesional de
+[<img src="./img/Curso profesional de Python.png" width="230"  height="170"><br><sub>Curso profesional de
 Python</sub>](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-5723b8c4022b)
 
-[<img src="./img/Programador Avanzado en 16 días.png" width=230><br><sub> Python TOTAL - Programador Avanzado en 16 días</sub>](https://www.udemy.com/certificate/UC-b4706151-9b4f-4809-89a7-eadc686231b1/)
+[<img src="./img/Programador Avanzado en 16 días.png" width="230" height="170"><br><sub> Python TOTAL - Programador Avanzado en 16 días</sub>](https://www.udemy.com/certificate/UC-b4706151-9b4f-4809-89a7-eadc686231b1/)
 
-## Personas-Desarrolladores del Proyecto
+## Desarrollador
+
+<section align="center">
 
 [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+
+</section>
