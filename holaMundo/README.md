@@ -48,7 +48,8 @@ FINALIZADO
 > Uso de la funcion de print.
 
 > Vista del programa en consola
-> ![alt text](img/image.png)
+
+![alt text](img/image.png)
 
 ## Acceso al proyecto
 
