@@ -64,7 +64,7 @@ Aplicacion de escritorio
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionpython/tree/main/holaMundo)
+[Github](https://github.com/Chinicuil87/programacionpython/tree/main/formulario)
 
 ## Tecnologías utilizadas
 
