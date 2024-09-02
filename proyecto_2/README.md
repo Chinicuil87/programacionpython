@@ -82,7 +82,7 @@ Resultado.
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto1)
+[Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto_2)
 
 ## Tecnologías utilizadas
 
