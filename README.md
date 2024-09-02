@@ -9,11 +9,8 @@
 
 <section align="center">
 
-![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
-![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
 ![Static Badge](https://img.shields.io/badge/CERTIFICADO-Udemy-purple)
 ![Static Badge](https://img.shields.io/badge/CERTIFICADO-CodigoFacilito-green)
-![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
 ![Static Badge](https://img.shields.io/badge/Curso-YouTube-red)
 
 </section>
@@ -42,8 +39,20 @@
 
 Repositorio que contiene todos los proyectos y ejercicios hechos en Python, con la finalidad de brindar información de mis avances y habilidades adquiridas durante las certificaciones.
 
+A. General
+
 1. [Hola Mundo](holaMundo)
 2. [Saludo a Usuario](saludoUsuario)
+
+B. YouTube
+
+> 1. [Formulario](formulario)
+> 2. [Gato](gato)
+> 3. [Documentos automaticos](documentosPersonalizados)
+
+C. Udemy
+
+> 1. [Tu marca](proyecto1)
 
 ## Estado del proyecto
 
@@ -57,11 +66,13 @@ PROCESO
 
 ## Tecnologías utilizadas
 
+<section align="center">
+
 ![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
-
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
-
 ![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
+
+</section>
 
 ## Certificados
 

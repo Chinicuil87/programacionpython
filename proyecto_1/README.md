@@ -3,7 +3,7 @@
  width="300">
 </p>
 
-<h1 align="center" id="marca">NOMBRE DE TU MARCA</h1>
+<h1 align="center" id="marca">Nombre de tu marca</h1>
 
 ## Insignias
 
@@ -11,13 +11,13 @@
 
 ![Static Badge](https://img.shields.io/badge/CURSO-PRACTICA-green)
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue)
-![Static Badge](https://img.shields.io/badge/PROYECTO-Udemy-purple)
+![Static Badge](https://img.shields.io/badge/PLATAFORMA-Udemy-purple)
 
 </section>
 
 ## Índice
 
-1. [NOMBRE DE TU MARCA](#marca)
+1. [Nombre de tu marca](#marca)
 
 2. [Insignias](#insignias)
 
@@ -82,13 +82,17 @@ Resultado.
 
 ## Tecnologías utilizadas
 
+<section align="center">
+
 ![Static Badge](https://img.shields.io/badge/IDE-PyCharm-yellow) ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue) ![Static Badge](https://img.shields.io/badge/PYTHON-3.12.4-red)
 ![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
+
+</section>
 
 ## Personas-Desarrolladores del Proyecto
 
 <section align="center">
 
-| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+[<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
 
 </section>
