@@ -52,7 +52,8 @@ B. YouTube
 
 C. Udemy
 
-> 1. [Tu marca](proyecto1)
+> 1. [Marca](proyecto_1)
+> 2. [Comision](proyecto_2)
 
 ## Estado del proyecto
 
