@@ -16,7 +16,7 @@
 
 ## Índice
 
-1. [Gato](#barra)
+1. [Barra de Progreso](#barra)
 
 2. [Insignias](#insignias)
 
@@ -73,7 +73,7 @@ Aplicacion de escritorio
 
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionpython/tree/main/gato)
+[Github](https://github.com/Chinicuil87/programacionpython/tree/main/progreso)
 
 ## Tecnologías utilizadas
 
