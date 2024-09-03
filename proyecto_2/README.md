@@ -17,7 +17,7 @@
 
 ## Índice
 
-1. [Nombre de tu marca](#marca)
+1. [Comision](#marca)
 
 2. [Insignias](#insignias)
 
