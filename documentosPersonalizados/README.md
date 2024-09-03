@@ -74,4 +74,4 @@ pip install wheel
 
 ## Personas-Desarrolladores del Proyecto
 
-| [<img src="./img/Imagen de WhatsApp 2024-04-03 a las 11.56.47_1cd72efb.jpg" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
+| [<img src="./img/Imagen de WhatsApp 2024-04-03 a las 11.56.47_1cd72efb.jpg" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
