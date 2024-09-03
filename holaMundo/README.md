@@ -65,4 +65,4 @@ FINALIZADO
 
 ## Personas-Desarrolladores del Proyecto
 
-| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
+| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
