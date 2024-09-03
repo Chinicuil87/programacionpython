@@ -9,10 +9,8 @@
 
 <section align="center">
 
-![Static Badge](https://img.shields.io/badge/PYTHON-3.12.4-red)
-![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
-![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
-![Static Badge](https://img.shields.io/badge/PRACTICA-YouTube-red)
+![Static Badge](https://img.shields.io/badge/Practica-Tkinter-yellow)
+![Static Badge](https://img.shields.io/badge/Plataforma-YouTube-red)
 
 </section>
 

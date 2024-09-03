@@ -1,22 +1,22 @@
 <p align="center">
-<img src="./img/form.png"
+<img src="./img/barra.png"
  width="300">
 </p>
 
-<h1 align="center" id="formulario">Formulario</h1>
+<h1 align="center" id="barra">Barra de Progreso</h1>
 
 ## Insignias
 
 <section align="center">
 
-![Static Badge](https://img.shields.io/badge/Plataforma-YouTube-red)
 ![Static Badge](https://img.shields.io/badge/Practica-Tkinter-yellow)
+![Static Badge](https://img.shields.io/badge/Plataforma-YouTube-red)
 
 </section>
 
 ## Índice
 
-1. [Formulario](#formulario)
+1. [Gato](#barra)
 
 2. [Insignias](#insignias)
 
@@ -34,7 +34,7 @@
 
 ## Descripción del proyecto
 
-Aplicacion de escrotorio, que muestra un formalurio y guarda la informacion capturada en un excel.
+Aplicacion de escrotorio, que muestra una barra de progreso de carga.
 
 ## Estado del proyecto
 
@@ -46,35 +46,49 @@ FINALIZADO
 
 Aplicacion de escritorio
 
+> Boton incremento
+
+- Aumenta en 10 unidades el avance de la barra.
+
+> Boton completar
+
+- La barra de progreso aumenta automaticamente
+
+> Boton Resetear
+
+- Reinicia la barra a 0
+
 > Lenguaje Python
 
     - Tkinter  (ventanas)
-    - openpyxl (archivos excel)
+    - Version 3.12.4
 
 > Vista escritorio
 
 ![alt text](img/image.png)
 
-> Vista archivo
+![alt text](img/image1.png)
 
 ![alt text](img/image2.png)
 
-![alt text](img/image3.png)
-
 ## Acceso al proyecto
 
-[Github](https://github.com/Chinicuil87/programacionpython/tree/main/formulario)
+[Github](https://github.com/Chinicuil87/programacionpython/tree/main/gato)
 
 ## Tecnologías utilizadas
 
+<section align="center">
+
 ![Static Badge](https://img.shields.io/badge/IDE-VSC-blue)
-
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-yellow)
-
 ![Static Badge](https://img.shields.io/badge/PYTHON-3.12-red)
+
+</section>
 
 ## Personas-Desarrolladores del Proyecto
 
-| [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
+<section align="center">
 
-pip install openpyxl
+[<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela Alves</sub>](https://github.com/Chinicuil87)
+
+</section>
