@@ -17,7 +17,7 @@
 
 ## Índice
 
-1. [Comision](#marca)
+1. [Comision](#comision)
 
 2. [Insignias](#insignias)
 
