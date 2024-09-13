@@ -31,23 +31,21 @@
 
 7. [Curso](#curso)
 
-7. [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+8. [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-8. [Repositorio Proyecto](#acceso-proyecto)
+9. [Repositorio Proyecto](#acceso-proyecto)
 
-9. [Tecnologías utilizadas](#tecnologías-utilizadas)
+10. [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-10. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+11. [Desarrollador](#desarrollador)
 
-11. [Conclusión](#conclusión)
+12. [Redes Sociales](#redes)
 
 ## Descripción del proyecto
 
 Programa de consola.
 
-Aplicacion de consola.
-
-Código en Python que le pida a tu amigo que responda dos preguntas que
+Vas a crear un código en Python que le pida a tu amigo que responda dos preguntas que
 requieran una sola palabra cada una y que luego le muestre en pantalla esas palabras
 combinadas, para formar una marca creativa.
 Puedes usar las preguntas que quieras. La idea es que el resultado sea original, creativo, y hasta
@@ -55,6 +53,8 @@ cómico, y si quieres agregar dificultad al desafío, te sugiero que intentes qu
 cerveza se imprima entre comillas. Recuerda que hay diferentes formas de que la función print
 muestre las comillas sin cortar el string, y que ingrese la impresión final en al menos dos líneas
 utilizando saltos de línea dentro del código.
+Intenta hacerlo por tu cuenta y si se complica, no te preocupes, en la próxima elección lo vamos
+a resolver juntos.
 
 ## Estado del proyecto
 
@@ -71,7 +71,8 @@ FINALIZADO
 > Python TOTAL - Programador Avanzado en 16 días.
 
 ## Liga.
-<section align="center"> 
+
+<section align="center">
 
 [![Static Badge](https://img.shields.io/badge/Link-Udemy-purple) ](https://www.udemy.com/course/python-total/)
 
@@ -97,7 +98,7 @@ Resultado.
 
 ## Repositorio Proyecto
 
-[Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto_1)
+[Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto1)
 
 ## Tecnologías utilizadas
 
@@ -108,30 +109,35 @@ Resultado.
 
 </section>
 
-## Personas-Desarrolladores del Proyecto
+## Desarrollador
 
 <section align="center">
 
-[<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+[<img src="../img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
 
 </section>
 
 ## Redes Sociales.
 
 <section align="center">
+
 <a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
-<img src="/img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
+<img src="../img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
 </a>
 <a href="https://twitter.com/Cesar_22_">
-<img src="/img/logotipos.png" alt="icono x" style="width:42px;height:42px; background-color:white; border-radius:7px;">
+<img src="../img/logotipos.png" alt="icono x" style="width:42px;height:42px;">
 </a>
 <a href="https://www.facebook.com/23.Cesar">
-<img src="/img/facebook.png" alt="icono facebook" style="width:42px;height:42px; border-radius:7px;">
+<img src="../img/facebook.png" alt="icono facebook" style="width:42px;height:42px;">
 </a>
 <a href="https://clopez.info/">
-<img src="/img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
+<img src="../img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
 </a>
 <a href="mailto:clopezorihuela@hotmail.com">
-<img src="/img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
+<img src="../img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
 </a>
+<a href="https://app.aluracursos.com/user/clopezorihuela">
+<img src="../img/alura.png" alt="icono alura" style="width:42px;height:42px;">
+</a>
+
 </section>
