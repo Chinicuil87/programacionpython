@@ -25,15 +25,17 @@
 
 4. [Proyectos y Ejercicios](#Proyectos)
 
-5. [Acceso al proyecto](#acceso-proyecto)
+5. [Estatus](#estatus)
 
-6. [Tecnologías utilizadas](#tecnologías-utilizadas)
+6. [Acceso al repositorio](#acceso-al-repsoritorio)
 
-7. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+7. [Tecnologías utilizadas](#tecnologías-utilizadas)
 
 8. [Certificados.](#certificado)
 
-9. [Conclusión](#conclusión)
+9. [Desarrollador](#personas-desarrolladores)
+
+10. [Redes Sociales](#redes)
 
 ## Proyectos y Ejercicios
 
@@ -56,13 +58,15 @@ C. Udemy
 > 2. [Comision](proyecto_2)
 > 3. [Analizador de Texto](proyecto_3)
 
-## Estado del proyecto
+## Estatus
 
 <h4 align="center">
-PROCESO
+
+![Static Badge](https://img.shields.io/badge/Estatus-Proceso-yellow)
+
 </h4>
 
-## Acceso al repositorio.
+## Acceso al repositorio
 
 [Repositorio Github](https://github.com/Chinicuil87/programacionpython)
 
@@ -88,5 +92,30 @@ Python</sub>](https://codigofacilito.com/certificates/bc9d270a-efaf-4666-9017-57
 <section align="center">
 
 [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
+
+</section>
+
+## Redes Sociales.
+
+<section align="center">
+
+<a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
+<img src="./img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
+</a>
+<a href="https://twitter.com/Cesar_22_">
+<img src="./img/logotipos.png" alt="icono x" style="width:42px;height:42px;">
+</a>
+<a href="https://www.facebook.com/23.Cesar">
+<img src="./img/facebook.png" alt="icono facebook" style="width:42px;height:42px;">
+</a>
+<a href="https://clopez.info/">
+<img src="./img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
+</a>
+<a href="mailto:clopezorihuela@hotmail.com">
+<img src="./img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
+</a>
+<a href="https://app.aluracursos.com/user/clopezorihuela">
+<img src="./img/alura.png" alt="icono alura" style="width:42px;height:42px;">
+</a>
 
 </section>

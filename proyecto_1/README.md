@@ -27,15 +27,19 @@
 
 5. [Estado del proyecto](#Estado-del-proyecto)
 
-6. [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+6. [Instructor.](#instructor)
 
-7. [Acceso al proyecto](#acceso-proyecto)
+7. [Curso](#curso)
 
-8. [Tecnologías utilizadas](#tecnologías-utilizadas)
+7. [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-9. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+8. [Repositorio Proyecto](#acceso-proyecto)
 
-10. [Conclusión](#conclusión)
+9. [Tecnologías utilizadas](#tecnologías-utilizadas)
+
+10. [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+11. [Conclusión](#conclusión)
 
 ## Descripción del proyecto
 
@@ -58,6 +62,21 @@ a resolver juntos.
 FINALIZADO
 </h4>
 
+## Instructor.
+
+> Ing. Federico Garay.
+
+## Curso.
+
+> Python TOTAL - Programador Avanzado en 16 días.
+
+## Liga.
+<section align="center"> 
+
+[![Static Badge](https://img.shields.io/badge/Link-Udemy-purple) ](https://www.udemy.com/course/python-total/)
+
+</section>
+
 ## Características de la aplicación y demostración.
 
 > Lenguaje
@@ -76,7 +95,7 @@ Resultado.
 
 ![![alt text](img/image.png)](img/image.png)
 
-## Acceso al proyecto
+## Repositorio Proyecto
 
 [Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto1)
 
@@ -95,4 +114,24 @@ Resultado.
 
 [<img src="./img/chinicuil.png" width=115><br><sub>Cesar Lopez Orihuela</sub>](https://github.com/Chinicuil87)
 
+</section>
+
+## Redes Sociales.
+
+<section align="center">
+<a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
+<img src="/img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
+</a>
+<a href="https://twitter.com/Cesar_22_">
+<img src="/img/logotipos.png" alt="icono x" style="width:42px;height:42px; background-color:white; border-radius:7px;">
+</a>
+<a href="https://www.facebook.com/23.Cesar">
+<img src="/img/facebook.png" alt="icono facebook" style="width:42px;height:42px; border-radius:7px;">
+</a>
+<a href="https://clopez.info/">
+<img src="/img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
+</a>
+<a href="mailto:clopezorihuela@hotmail.com">
+<img src="/img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
+</a>
 </section>
