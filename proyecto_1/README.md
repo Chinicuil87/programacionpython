@@ -97,7 +97,7 @@ Resultado.
 
 ## Repositorio Proyecto
 
-[Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto1)
+[Github](https://github.com/Chinicuil87/programacionpython/tree/main/proyecto_1)
 
 ## Tecnologías utilizadas
 
